@@ -1,10 +1,9 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Pedro Ferreira</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Pedro Ferreira</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="40" height="40" /></h1>
 
 **`Software Developer / Founder / Problem Solver`**
 
 I enjoy turning ideas into scalable products, designing robust backend architectures, building modern web applications, and helping businesses leverage technology for growth and efficiency. <br>
 > Always open to collaborating on projects and innovative/disruptive ideas.
-
 
 
 <div align="center"> 
@@ -23,7 +22,7 @@ I enjoy turning ideas into scalable products, designing robust backend architect
 </div>
 <hr/>
  
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="35" height="35" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" height="35" /></h2>
 
 ###
 
